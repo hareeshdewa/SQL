@@ -1,1 +1,4 @@
-# SQL
+The provided code showcases the creation of an e-commerce database management system (DBMS) 
+that is designed to handle various aspects of an e-commerce platform. 
+It sets up tables with appropriate primary keys and foreign key constraints to establish relationships between them,
+creating a well-structured database.
